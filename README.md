@@ -1,7 +1,7 @@
 # Data Engineering for Beginners Course
 ## 🏁 Quick start
 
-✅ Exercises
+✅ Exercises SQL
 
 Exercise 1 – Customer order count (2014-01)
 
