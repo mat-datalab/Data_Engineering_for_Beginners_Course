@@ -13,6 +13,6 @@ Exercise 4 – Revenue per category (2014-01)
 
 Exercise 5 – Product count per department
 
-Each SQL file starts with a short header:
--- title: Exercise N - Short description
+Each SQL file starts with a short header:__
+-- title: Exercise N - Short description__
 -- description: what is computed + date scope (e.g., 2014-01)
